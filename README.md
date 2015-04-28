@@ -12,11 +12,9 @@ competencies. Additionally in this application, the user also gets to see the ag
 
 2. Follow the instructions at the top to fill and submit the form
 
-3. Hover the mouse on the cells to see the aggregate scores for each competency level. Alternatively , open the app in multiple browser windows or devices and see
-the realtime updates on aggregate scores.
+3. Hover the mouse on the cells to see the aggregate scores for each competency level. Alternatively , open multiple instances of app on browser windows or devices and see the realtime updates on aggregate scores on submission from one of the app instances.
 
-## ToDo
+## Pitfalls
 1. The app does not support user login
-2. This app does not gracefully handle concurrent submissions from two or more users as there is no mechanism to persist the score data. 
-   Such cases may lead to inconsistencies in the aggregate score.
+2. This app does not gracefully handle concurrent submissions from two or more users as there is no mechanism to persist the aggregate score data. Such cases may lead to inconsistencies in the aggregate scores.
 
