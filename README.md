@@ -1,4 +1,4 @@
-# BackboneJS with PubNub
+# Programmer Compeency Matrix (PCM) app with BackboneJS with PubNub
 
 ## Introduction
 This code demonstrates how to integrate BackboneJS with PubNub Javascript SDK to build an application.
